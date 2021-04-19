@@ -1,6 +1,6 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
-<<<<<<< HEAD
+# <<<<<<< HEAD
 # def parrot(string = "Squawk!")
 #   puts "#{string}"
 #   return string
@@ -17,4 +17,4 @@ def parrot(string = "Squawk!")
   puts "#{string}"
   return string
 end 
->>>>>>> 385bc1dc6a85c8f874656290423e54d2382db386
+# >>>>>>> 385bc1dc6a85c8f874656290423e54d2382db386
